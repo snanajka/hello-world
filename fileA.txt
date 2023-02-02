@@ -1,4 +1,6 @@
 This is fileA.txt contents
 A
 B
-C
+D
+E
+F
